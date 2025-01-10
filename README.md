@@ -126,11 +126,11 @@ Installation
 
 Clonez le dépôt :
 
-git clone https://github.com/votre-nom-utilisateur/fitness-tracker.git
+git clone https://github.com/sanaahamliri/BodyTracker.git
 
 Accédez au dossier du projet :
 
-cd fitness-tracker
+cd my-app
 
 Installez les dépendances :
 
